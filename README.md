@@ -1,7 +1,7 @@
 # Cliput
 
 A simple vedio editor based on Qt.
-![](./Cliput.png)
+![Sample](./Cliput.png)
 
 ## Release
 
