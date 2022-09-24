@@ -10,4 +10,4 @@ Google Drive:https://drive.google.com/file/d/1fjhAmUFdVNo3qjAROgh3GCfoh3TKvjD8/v
 
 Baidu Disk:https://pan.baidu.com/s/1Y4l53UUVTm62HdvHBvXTjg?pwd=eupt
 
-For more details, you can refer to [specification.docx](./specification.docx).
+For more details, you can refer to [Specification.docx](./specification.docx).
